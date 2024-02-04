@@ -1,0 +1,3 @@
+[submodule "CoreProgetto/Project/testSubmoduleA"]
+	path = CoreProgetto/Project/testSubmoduleA
+	url = https://github.com/Kiumb/testSubmoduleA.git
