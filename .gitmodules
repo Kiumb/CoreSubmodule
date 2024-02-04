@@ -2,3 +2,6 @@
 	path = CoreProgetto/Project/testSubmoduleA
 	url = https://github.com/Kiumb/testSubmoduleA.git
 	
+[submodule "CoreProgetto/Project/testSubmoduleB"]
+	path = CoreProgetto/Project/testSubmoduleB
+	url = https://github.com/Kiumb/testSubmoduleB.git
